@@ -1,0 +1,13 @@
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/CMakeFiles/INSTALL.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/CMakeFiles/ZERO_CHECK.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/zbar/CMakeFiles/lconfig.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/zbar/CMakeFiles/libzbar.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/zbar/CMakeFiles/INSTALL.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/zbar/decoder/CMakeFiles/ldecoder.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/zbar/decoder/CMakeFiles/INSTALL.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/zbar/qrcode/CMakeFiles/lqrcode.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/zbar/qrcode/CMakeFiles/INSTALL.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/zbar/libiconv-win/CMakeFiles/INSTALL.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/zbar/libiconv-win/libiconv/CMakeFiles/lioconv-win.dir
+C:/Users/jason/Downloads/libzbar-master/libzbar-master/zbar/libiconv-win/libiconv/CMakeFiles/INSTALL.dir

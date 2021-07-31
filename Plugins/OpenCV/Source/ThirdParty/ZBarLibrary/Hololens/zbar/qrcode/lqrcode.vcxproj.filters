@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\bch15_5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\binarize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\isaac.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\qrdec.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\qrdectxt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\rs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\include\zbar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\bch15_5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\binarize.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\isaac.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\qrdec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\rs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jason\Downloads\libzbar-master\libzbar-master\zbar\qrcode\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F466C55D-804D-349E-B612-16574A778D88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{13AFCAF1-9C12-3E73-BA55-2EF3274F4061}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

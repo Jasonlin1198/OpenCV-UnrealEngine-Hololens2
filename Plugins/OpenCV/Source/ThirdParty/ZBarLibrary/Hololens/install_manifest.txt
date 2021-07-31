@@ -1,0 +1,15 @@
+C:/lib/libzbar/include/zbar.h
+C:/lib/libzbar/include/zbar/zbargtk.h
+C:/lib/libzbar/include/zbar/Symbol.h
+C:/lib/libzbar/include/zbar/Exception.h
+C:/lib/libzbar/include/zbar/Processor.h
+C:/lib/libzbar/include/zbar/QZBar.h
+C:/lib/libzbar/include/zbar/ImageScanner.h
+C:/lib/libzbar/include/zbar/Decoder.h
+C:/lib/libzbar/include/zbar/QZBarImage.h
+C:/lib/libzbar/include/zbar/Video.h
+C:/lib/libzbar/include/zbar/Scanner.h
+C:/lib/libzbar/include/zbar/Image.h
+C:/lib/libzbar/include/zbar/Window.h
+C:/lib/libzbar/win32/libzbar.lib
+C:/lib/libzbar/bin/libzbar.dll
